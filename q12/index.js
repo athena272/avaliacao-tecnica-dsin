@@ -73,7 +73,7 @@ var PatoBorracha = /** @class */ (function (_super) {
     };
     return PatoBorracha;
 }(Pato));
-// Uso das classes
+// Usando as classes
 var patoSelvagem = new PatoSelvagem();
 patoSelvagem.exibir();
 patoSelvagem.quack();

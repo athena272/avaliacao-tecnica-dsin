@@ -68,7 +68,7 @@ interface ComportamentoVoo {
     }
   }
   
-  // Uso das classes
+  // Usando as classes
   const patoSelvagem = new PatoSelvagem();
   patoSelvagem.exibir();
   patoSelvagem.quack();
